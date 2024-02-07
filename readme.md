@@ -18,6 +18,6 @@ Figma, UI/UX , Javascript, HTML, CSS , Ext JS, Vue JS,
 ## 🔗 Let's Connect !
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardish-jadav)
 
 
