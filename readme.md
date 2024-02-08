@@ -21,4 +21,6 @@ Figma, UI/UX , Javascript, HTML, CSS , Ext JS, Vue JS,
 [![linkedin](https://img.shields.io/badge/-Hardish%20Jadav-blue?style=plastic&logo=linkedin
 )](https://www.linkedin.com/in/hardish-jadav)
 
+You can reach me: hardishjadav@gmail.com
+
 
