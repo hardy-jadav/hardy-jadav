@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:ef4444&height=240&section=header&text=Hardish%20Jadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20React.js%20•%20Next.js%20•%20UI%20Engineer&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Frontend+Developer+from+India;React.js+%7C+Next.js+Developer;Crafting+Pixel-Perfect+UI;Building+Modern+Web+Experiences;Passionate+About+Frontend+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Frontend+Developer;React.js+and+Next.js+Developer;Building+Modern+Web+Applications;Crafting+Responsive+and+Scalable+UI;Passionate+About+Frontend+Engineering" />
 
 
 </div>
