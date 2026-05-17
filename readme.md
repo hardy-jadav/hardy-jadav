@@ -1,6 +1,16 @@
 <div align="center">
 
-# Hi 👋, I'm Hardish Jadav
+<h1 align="center" 
+    style="
+      font-size: 52px;
+      font-weight: 800;
+      background: linear-gradient(90deg, #2563eb, #ef4444);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 10px;
+    ">
+  Hi 👋, I'm Hardish Jadav
+</h1>
 
 ### Frontend Developer • React.js • Next.js • UI Development 
 
