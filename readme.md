@@ -72,7 +72,7 @@
 </table>
 
 ---
-## 🏢 Experience
+## 🏢 Professional Experience
 
 ### Frontend / UI Developer — Knovos
 📍 Gandhinagar, Gujarat  
