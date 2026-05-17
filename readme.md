@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Hardish Jadav
 
-### Frontend Developer • React.js • Next.js • UI Engineering
+### Frontend Developer • React.js • Next.js • UI Development 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+Next.js+Developer;Building+Scalable+UI+Applications;Passionate+About+Modern+Web+Experiences" alt="Typing SVG" />
 
