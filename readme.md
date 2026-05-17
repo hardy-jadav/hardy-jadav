@@ -26,7 +26,7 @@
 
 ### 💻 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux,zustand" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
